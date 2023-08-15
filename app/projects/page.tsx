@@ -38,7 +38,7 @@ const projects = [
     name: 'Business UI Design',
     image: '/project-business-template.png',
     description:
-      'A React-based mordern Business web application transform from Figma design using Tailwind CSS',
+      'A React-based mordern Business web application transform from Figma design using Tailwind CSS.',
     technologies: ['React.js', 'Tailwind CSS'],
     liveSite: 'https://project-business-template.tech/',
     githubCode: 'https://github.com/nok1214/business_template',
@@ -47,7 +47,7 @@ const projects = [
     name: 'Restautant UI Design',
     image: '/project-fine-dinning.png',
     description:
-      'A React-based mordern Restaurant web application transform from Figma design following BEM model',
+      'A React-based mordern Restaurant web application transform from Figma design following BEM model.',
     technologies: ['React.js', 'React Icon'],
     liveSite: 'https://project-finedinning.tech/',
     githubCode: 'https://github.com/nok1214/fine_dining_template',
@@ -56,7 +56,7 @@ const projects = [
     name: 'GPT3 UI',
     image: '/project-gpt3.png',
     description:
-      'A React-based mordern web application transform from Figma design following BEM model',
+      'A React-based mordern web application transform from Figma design following BEM model.',
     technologies: ['React.js', 'CSS'],
     liveSite: 'https://project-gpt3.tech/',
     githubCode: 'https://github.com/nok1214/project-gpt3',
@@ -64,7 +64,7 @@ const projects = [
   {
     name: 'Coming Soon',
     image: '/Comingsoon.png',
-    description: 'Stay tuned for more exciting new projects',
+    description: 'Stay tuned for more exciting new projects!',
     technologies: [],
     liveSite: '',
     githubCode: '',
