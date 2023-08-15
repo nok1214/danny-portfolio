@@ -19,7 +19,7 @@ const projects = [
     name: 'AI Image',
     image: '/project-ai.png',
     description:
-      'A React-based with stunning 3D element using Three.js application that allows users to customize shirts with various design elements, AI-generated images, and color preferences.',
+      'A React-based application with stunning 3D element using Three.js that allows users to customize shirts with various design elements, AI-generated images, and color preferences.',
     technologies: [
       'React.js',
       'Next.js',
@@ -64,7 +64,7 @@ const projects = [
   {
     name: 'Coming Soon',
     image: '/Comingsoon.png',
-    description: 'Stay tuned for exciting new projects',
+    description: 'Stay tuned for more exciting new projects',
     technologies: [],
     liveSite: '',
     githubCode: '',
