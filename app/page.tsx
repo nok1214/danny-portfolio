@@ -38,7 +38,7 @@ export default function Home() {
           Welcome to my personal portfolio, my name is Danny(卓燃).
         </h2>
         <h2 className="text-md text-zinc-400 ">
-          I am a frontend developer and working my way to become a fullstack
+          I am a front-end developer and working my way to become a full-stack
           developer.
         </h2>
         <h2 className="text-md text-zinc-400 ">
