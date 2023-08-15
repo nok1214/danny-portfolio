@@ -19,7 +19,7 @@ const projects = [
     name: 'AI Image',
     image: '/project-ai.png',
     description:
-      'A React-based application that allows users to customize shirts with various design elements, AI-generated images, and color preferences.',
+      'A React-based with stunning 3D element using Three.js application that allows users to customize shirts with various design elements, AI-generated images, and color preferences.',
     technologies: [
       'React.js',
       'Next.js',
@@ -37,7 +37,8 @@ const projects = [
   {
     name: 'Business UI Design',
     image: '/project-business-template.png',
-    description: 'Mordern Business UI/UX design',
+    description:
+      'A React-based mordern Business web application transform from Figma design using Tailwind CSS',
     technologies: ['React.js', 'Tailwind CSS'],
     liveSite: 'https://project-business-template.tech/',
     githubCode: 'https://github.com/nok1214/business_template',
@@ -45,7 +46,8 @@ const projects = [
   {
     name: 'Restautant UI Design',
     image: '/project-fine-dinning.png',
-    description: 'Mordern restaurant UI/UX design',
+    description:
+      'A React-based mordern Restaurant web application transform from Figma design following BEM model',
     technologies: ['React.js', 'React Icon'],
     liveSite: 'https://project-finedinning.tech/',
     githubCode: 'https://github.com/nok1214/fine_dining_template',
@@ -53,7 +55,8 @@ const projects = [
   {
     name: 'GPT3 UI',
     image: '/project-gpt3.png',
-    description: 'GPT-3 with modern UI/UX design',
+    description:
+      'A React-based mordern web application transform from Figma design following BEM model',
     technologies: ['React.js', 'CSS'],
     liveSite: 'https://project-gpt3.tech/',
     githubCode: 'https://github.com/nok1214/project-gpt3',
