@@ -60,7 +60,7 @@ const projects = [
   },
   {
     name: 'Coming Soon',
-    image: '/comingsoon.png',
+    image: '/Comingsoon.png',
     description: 'Stay tuned for exciting new projects',
     technologies: [],
     liveSite: '',
