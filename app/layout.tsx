@@ -4,11 +4,11 @@ import { Metadata } from 'next';
 import Head from 'next/head';
 
 export const metadata: Metadata = {
-  title: 'Danny(卓燃)',
-  description: "Danny's personal portfolio",
+  title: 'Longfei-Li',
+  description: "Longfei's personal portfolio",
   openGraph: {
     title: 'longfei-dev.com',
-    description: "Danny's personal portfolio",
+    description: "Longfei's personal portfolio",
     url: 'https://longfei-dev.com/',
     siteName: 'longfei-dev.com',
     locale: 'en_US',
