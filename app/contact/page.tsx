@@ -16,7 +16,7 @@ const socials = [
     icon: <Github size={20} />,
     href: 'https://github.com/nok1214',
     label: 'Github',
-    handle: 'Danny-卓燃',
+    handle: 'Longfei',
   },
 ];
 
