@@ -35,14 +35,14 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-md text-zinc-400 ">
-          Welcome to my portfolio, my name is Danny(卓燃).
+          Welcome to my portfolio, my name is Longfei Li.
         </h2>
         <h2 className="text-md text-zinc-400 ">
           I am a front-end developer and working my way to become a full-stack
           developer.
         </h2>
         <h2 className="text-md text-zinc-400 ">
-          I love leanring new technologies and building new projects.
+          I love learning new technologies and building new projects.
         </h2>
       </div>
     </div>
