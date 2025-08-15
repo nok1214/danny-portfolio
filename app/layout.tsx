@@ -4,13 +4,13 @@ import { Metadata } from 'next';
 import Head from 'next/head';
 
 export const metadata: Metadata = {
-  title: 'Longfei-Li',
-  description: "Longfei's personal portfolio",
+  title: 'zhuoran-Li',
+  description: "zhuoran's personal portfolio",
   openGraph: {
-    title: 'longfei-dev.com',
-    description: "Longfei's personal portfolio",
-    url: 'https://longfei-dev.com/',
-    siteName: 'longfei-dev.com',
+    title: 'zhuoran-dev.com',
+    description: "zhuoran's personal portfolio",
+    url: 'https://zhuoran-dev.com/',
+    siteName: 'zhuoran-dev.com',
     locale: 'en_US',
     type: 'website',
   },
